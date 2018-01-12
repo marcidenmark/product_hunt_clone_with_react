@@ -1,0 +1,8 @@
+{
+  "name": "product_hunt_clone_with_react",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3",
+    "jquery": "^3.2.1"
+  }
+}
